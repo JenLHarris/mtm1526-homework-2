@@ -1,0 +1,9 @@
+h1,
+body {
+	color: #03C;
+}
+	
+.done {
+	color: #CCC;
+	text-decoration: line-through;
+}
